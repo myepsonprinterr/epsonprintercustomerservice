@@ -1,7 +1,7 @@
 How to Contact Epson Printer Customer Support?
 ================================================
 
-Epson provides various ways to contact customer support, depending on your region. This guide outlines the available options for different countries to help you get the assistance you need.
+Epson provides various ways to contact customer support, depending on your region.
 
 
 .. image:: https://img.shields.io/badge/GET%20HELP-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
@@ -9,6 +9,10 @@ Epson provides various ways to contact customer support, depending on your regio
    :align: center
    :target: https://getchatsupport.net/
    :alt: Login Now Button
+
+
+
+This guide outlines the available options for different countries to help you get the assistance you need.
 
 
 
